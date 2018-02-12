@@ -1,0 +1,8 @@
+.error {
+    display: block;
+    position: relative;
+}
+
+.error__title {
+    color: # #282A36;
+}
